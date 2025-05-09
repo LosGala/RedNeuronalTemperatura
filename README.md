@@ -1,4 +1,4 @@
-#RedNeuronalTemperatura
+# Red Neuronal Temperatura
 
 
 ````markdown
@@ -55,14 +55,5 @@ resultado = modelo.predict([100.0])
 print("El resultado es " + str(resultado) + " Fahrenheit")
 ```
 
-## Agradecimientos
-
-* **TensorFlow** para la red neuronal.
-* **NumPy** para manejar los datos.
-* **Matplotlib** para graficar la pérdida.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT.
 
 
